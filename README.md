@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hello World! I'm Marouane OUARRADI
+🚀 Full-Stack Developer | MERN & Next.js Enthusiast
 
-<!--
-**marwancodes/marwancodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me:
+I'm passionate about developing seamless, user-friendly applications with MERN stack and Next.js. My projects focus on building engaging digital experiences with clean, efficient code and modern design.
 
-Here are some ideas to get you started:
+🎯 What I’m Working On:
+Building new projects, exploring advanced JavaScript frameworks, and diving deep into responsive and dynamic web applications!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Skills:
+
+Frontend: React, Next.js, Tailwind CSS
+Backend: Node.js, Express, MongoDB
+Other: API integration, JWT Authentication, UI/UX best practices
+🌱 Constantly Learning: Improving my skills with hands-on projects and embracing new web technologies!
+
+💬 Let's Connect:
+Have a project in mind, or just want to chat about tech? Feel free to reach out!
+
+[![Marouane's GitHub stats](https://github-readme-stats.vercel.app/api?username=marwancodes&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
