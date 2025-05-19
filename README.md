@@ -1,5 +1,69 @@
-# 💫 About Me:
-👋 Hello World! I'm Marouane OUARRADI<br>🚀 Full-Stack Developer | MERN & Next.js <br><br>👨‍💻 About Me:<br>I'm passionate about developing seamless, user-friendly applications with MERN stack and Next.js. My projects focus on building engaging digital experiences with clean, efficient code and modern design.<br><br>🎯 What I’m Working On:<br>Building new projects, exploring advanced JavaScript frameworks, and diving deep into responsive and dynamic web applications!<br><br>📚 Skills:<br><br>Frontend: React, Next.js, Tailwind CSS<br>Backend: Node.js, Express, MongoDB<br>Other: API integration, JWT Authentication, UI/UX best practices<br>🌱 Constantly Learning: Improving my skills with hands-on projects and embracing new web technologies!<br><br>💬 Let's Connect:<br>Have a project in mind, or just want to chat about tech? Feel free to reach out!<br><br>
+# 💫 About Me
+
+👋 Hi there! I'm **Marouane OUARRADI**  
+🚀 Full-Stack Developer | MERN Stack | Next.js | React Native  
+
+---
+
+## 👨‍💻 Who Am I?
+
+I'm a passionate and results-driven full-stack developer with a strong focus on crafting seamless, high-performance web and mobile applications. I specialize in building clean, scalable, and responsive user interfaces using the **MERN stack**, **Next.js**, and **React Native**. I love turning ideas into interactive digital experiences that are both user-friendly and visually engaging.
+
+---
+
+## 🚧 What I’m Working On
+
+- Building full-stack applications with **React**, **Next.js**, and **MongoDB**
+- Creating cross-platform mobile apps with **React Native**
+- Enhancing UI/UX with modern design principles and responsive layouts
+- Continuously exploring advanced JavaScript tools and frameworks
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+- React.js  
+- Next.js  
+- React Native  
+- Tailwind CSS  
+- TypeScript  
+- Bootstrap  
+
+**Backend:**  
+- Node.js  
+- Express.js  
+- MongoDB  
+- RESTful API Development  
+- JWT Authentication  
+
+**Other Skills:**  
+- Version Control with Git & GitHub  
+- Cloudinary & Multer (file uploads)  
+- UI/UX Best Practices  
+- Agile Development  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced mobile development patterns in React Native  
+- Serverless architecture & cloud deployment  
+- Testing and performance optimization for large-scale apps  
+
+---
+
+## 🤝 Let’s Connect!
+
+Have an idea, collaboration, or just want to talk tech?  
+📩 Feel free to reach out — I'm always open to exciting opportunities and networking with like-minded developers.
+
+---
+
+**📍 Based in:** Birmingham, United Kingdom  
+**📂 Portfolio & Projects:** [GitHub](https://github.com/marwancodes)
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/marouaneord) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marwanfitvlogs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/marwancodes) 
