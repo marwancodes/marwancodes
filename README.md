@@ -33,7 +33,8 @@ I'm a passionate and results-driven full-stack developer with a strong focus on 
 **Backend:**  
 - Node.js  
 - Express.js  
-- MongoDB  
+- MongoDB
+- MySQL
 - RESTful API Development  
 - JWT Authentication  
 
