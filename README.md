@@ -60,11 +60,6 @@ I'm a passionate and results-driven full-stack developer with a strong focus on 
 Have an idea, collaboration, or just want to talk tech?  
 📩 Feel free to reach out — I'm always open to exciting opportunities and networking with like-minded developers.
 
----
-
-**📍 Based in:** Birmingham, United Kingdom  
-**📂 Portfolio & Projects:** [GitHub](https://github.com/marwancodes)
-
 
 
 ## 🌐 Socials:
