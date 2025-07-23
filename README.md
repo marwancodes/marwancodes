@@ -22,6 +22,9 @@ I'm a passionate and results-driven full-stack developer with a strong focus on 
 
 ## 🛠️ Tech Stack
 
+**Mobile:**
+- React Native
+
 **Frontend:**  
 - React.js  
 - Next.js  
@@ -30,14 +33,19 @@ I'm a passionate and results-driven full-stack developer with a strong focus on 
 - TypeScript  
 - Bootstrap  
 
-**Backend:**  
+**Backend:**
 - Node.js  
 - Express.js
 - Laravel
 - MongoDB
 - MySQL
 - RESTful API Development  
-- JWT Authentication  
+- JWT Authentication
+
+**State Management Libraries:**
+- Redux / Redux Toolkit
+- Context
+- Zustand
 
 **Other Skills:**  
 - Version Control with Git & GitHub  
