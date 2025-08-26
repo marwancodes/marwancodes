@@ -1,13 +1,13 @@
 # 💫 About Me
 
 👋 Hi there! I'm **Marouane OUARRADI**  
-🚀 Full-Stack Developer | MERN Stack | Next.js | React Native  
+🚀 Full-Stack Developer | MERN Stack | Next.js | React Native | Laravel
 
 ---
 
 ## 👨‍💻 Who Am I?
 
-I'm a passionate and results-driven full-stack developer with a strong focus on crafting seamless, high-performance web and mobile applications. I specialize in building clean, scalable, and responsive user interfaces using the **MERN stack**, **Next.js**, and **React Native**. I love turning ideas into interactive digital experiences that are both user-friendly and visually engaging.
+I'm a passionate and results-driven full-stack developer with a strong focus on crafting seamless, high-performance web and mobile applications. I specialize in building clean, scalable, and responsive user interfaces using the **MERN stack**, **Next.js**, **React Native** and **Laravel**. I love turning ideas into interactive digital experiences that are both user-friendly and visually engaging.
 
 ---
 
