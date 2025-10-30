@@ -1,7 +1,7 @@
 # 💫 About Me
 
 👋 Hi there! I'm **Marouane OUARRADI**  
-🚀 Full-Stack Developer | MERN Stack | Next.js | React Native | Laravel
+🚀 Software Developer | MERN Stack | Next.js | React Native | Laravel
 
 ---
 
@@ -41,6 +41,10 @@ I'm a passionate and results-driven full-stack developer with a strong focus on 
 - MySQL
 - RESTful API Development  
 - JWT Authentication
+
+**Software Testing**
+- Jest
+- Pest
 
 **State Management Libraries:**
 - Redux / Redux Toolkit
