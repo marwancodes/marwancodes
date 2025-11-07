@@ -1,28 +1,29 @@
 # 💫 About Me
 
 👋 Hi there! I'm **Marouane OUARRADI**  
-🚀 Software Developer | MERN Stack | Next.js | React Native | Laravel
+🚀 Software Developer | MERN Stack | Next.js | React Native | Laravel | Jest | Pest
 
 ---
 
 ## 👨‍💻 Who Am I?
 
-I'm a passionate and results-driven full-stack developer with a strong focus on crafting seamless, high-performance web and mobile applications. I specialize in building clean, scalable, and responsive user interfaces using the **MERN stack**, **Next.js**, **React Native** and **Laravel**. I love turning ideas into interactive digital experiences that are both user-friendly and visually engaging.
+I'm a passionate and results-driven full-stack developer with expertise in building high-performance web and mobile applications. I specialize in creating seamless, scalable, and user-centric experiences with modern technologies. My skill set spans across **React Native**, **Laravel**, **MERN stack**, and **Next.js**, with a strong emphasis on delivering responsive and engaging applications that delight users.
 
 ---
 
 ## 🚧 What I’m Working On
 
-- Building full-stack applications with **React**, **Next.js**, and **MongoDB**
-- Creating cross-platform mobile apps with **React Native**
-- Enhancing UI/UX with modern design principles and responsive layouts
-- Continuously exploring advanced JavaScript tools and frameworks
+- Developing full-stack applications with **React**, **Next.js**, and **MongoDB**
+- Building robust, cross-platform mobile apps with **React Native**
+- Crafting elegant, scalable backends with **Node.js**, **Express**, and **Laravel**
+- Focusing on enhancing **UI/UX** through modern design principles and responsive layouts
+- Continuously exploring **advanced JavaScript tools** and frameworks
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Mobile:**
+**Mobile:**  
 - React Native
 
 **Frontend:**  
@@ -31,46 +32,47 @@ I'm a passionate and results-driven full-stack developer with a strong focus on 
 - React Native  
 - Tailwind CSS  
 - TypeScript  
-- Bootstrap  
+- Bootstrap
 
-**Backend:**
+**Backend:**  
 - Node.js  
-- Express.js
-- Laravel
-- MongoDB
-- MySQL
+- Express.js  
+- Laravel  
+- MongoDB  
+- MySQL  
 - RESTful API Development  
 - JWT Authentication
 
-**Software Testing**
-- Jest
+**Software Testing:**  
+- Jest  
 - Pest
 
-**State Management Libraries:**
-- Redux / Redux Toolkit
-- Context
+**State Management Libraries:**  
+- Redux / Redux Toolkit  
+- Context API  
 - Zustand
 
 **Other Skills:**  
 - Version Control with Git & GitHub  
 - Cloudinary & Multer (file uploads)  
 - UI/UX Best Practices  
-- Agile Development  
+- Agile Development
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced mobile development patterns in React Native  
-- Serverless architecture & cloud deployment  
-- Testing and performance optimization for large-scale apps  
+- Advanced mobile development patterns in **React Native**
+- Serverless architecture & cloud deployment
+- Testing and performance optimization for large-scale applications
 
 ---
 
 ## 🤝 Let’s Connect!
 
-Have an idea, collaboration, or just want to talk tech?  
-📩 Feel free to reach out — I'm always open to exciting opportunities and networking with like-minded developers.
+Have an idea, a project, or just want to talk tech?  
+📩 Feel free to reach out — I’m always open to exciting opportunities and connecting with like-minded developers.
+
 
 
 
