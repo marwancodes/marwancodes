@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi there! I'm **Marouane OUARRADI**  
+ **Marouane OUARRADI**  
 🚀 Software Developer | MERN Stack | Next.js | React Native | Laravel | Jest | Pest
 
 ---
