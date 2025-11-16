@@ -3,9 +3,9 @@
 <h3 align="center">Full‑Stack Developer • MERN • Next.js • React Native • Laravel</h3>
 
 <p align="center">
-  <a href="https://github.com/Marouane-username?tab=repositories">🌐 Portfolio Projects</a> •
-  <a href="#-tech-stack">⚙️ Tech Stack</a> •
-  <a href="#-contact">📫 Contact</a>
+  <a href="https://marwancodes.vercel.app">🌐 Portfolio Projects</a> •
+  <a href="https://github.com/marwancodes">⚙️ Tech Stack</a> •
+  <a href="mailto:marouaneord@gmail.com">📫 Contact</a>
 </p>
 
 ---
