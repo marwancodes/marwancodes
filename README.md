@@ -127,7 +127,7 @@ My main tools are React / Next.js, React Native, Node.js / Express, and Laravel,
 ## 🌐 Socials
 
 <p align="center">
-  <a href="https://facebook.com/marouaneord">
+  <a href="https://www.facebook.com/marouane.ouarradi/">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
   <a href="https://instagram.com/marwanfitvlogs">
@@ -140,10 +140,6 @@ My main tools are React / Next.js, React Native, Node.js / Express, and Laravel,
 
 ---
 
-## 🤝 Contact
-
-Have an idea or a project you want to ship?  
-Feel free to reach out — always open to collaborating on interesting products and learning with other developers.
 
 <!-- You can add your email or portfolio link here -->
 <!-- ✉️ Email: your.email@example.com -->
