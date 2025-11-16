@@ -114,12 +114,12 @@ My main tools are React / Next.js, React Native, Node.js / Express, and Laravel,
 ## 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marwancodes&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marwancodes&theme=radical" alt="GitHub Streak" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwancodes&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </p>
 
 ---
