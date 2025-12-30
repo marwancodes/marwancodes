@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Marwan&fontSize=80&animation=fadeIn&fontAlign=80&fontWeight=700" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Marwan+%F0%9F%91%8B;Full-Stack+Developer;React+Native+%26+Next.js+Expert;Laravel+Enthusiast" alt="Typing SVG" />
   
   <p align="center">
@@ -126,4 +127,6 @@
   <a href="https://x.com/marwancodes">
     <img src="https://img.shields.io/badge/X-000000.svg?style=flat-square&logo=X&logoColor=white" />
   </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&animation=fadeIn" />
 </p>
+
