@@ -90,7 +90,7 @@
       <td>
         <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-005C84?style=flat&logo=postgresql&logoColor=white" />
       </td>
     </tr>
     <tr>
