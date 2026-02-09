@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Marwan&fontSize=80&animation=fadeIn&fontAlign=80&fontWeight=700" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=MARWAN&fontSize=80&animation=fadeIn&fontAlign=80&fontWeight=700" />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F8CFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Marwan+%F0%9F%91%8B;Full-Stack+Developer;React+Native+%26+Next.js+Expert;Laravel+Enthusiast" alt="Typing SVG" />
   
   <p align="center">
@@ -75,7 +75,7 @@
         <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
       </td>
     </tr>
     <tr>
