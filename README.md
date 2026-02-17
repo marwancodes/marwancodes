@@ -12,7 +12,7 @@
   <br>
 
   <p align="center">
-    <a href="https://marwancodes.vercel.app" target="_blank">
+    <a href="https://marwanwarradi.vercel.app" target="_blank">
       <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:marouaneord@gmail.com">
